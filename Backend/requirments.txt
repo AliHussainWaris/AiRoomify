@@ -1,0 +1,11 @@
+boto3
+pydantic
+uuid
+python-dotenv
+bcrypt
+flask
+transformers
+torch
+transformers
+diffusers
+flask-cors

@@ -1,0 +1,27 @@
+#User Routes
+http://localhost:5000/api/user/register
+http://localhost:5000/api/user/login
+http://localhost:5000/api/user/update
+http://localhost:5000/api/user/delete
+
+#Category Routes
+http://localhost:5000/api/category/create
+http://localhost:5000/api/category/get-all
+http://localhost:5000/api/category/update
+http://localhost:5000/api/category/delete
+
+#Product Routes
+http://localhost:5000/api/product/create
+http://localhost:5000/api/product/all
+http://localhost:5000/api/product/get_one
+http://localhost:5000/api/product/update
+http://localhost:5000/api/product/delete
+
+#Order Routes
+http://localhost:5000/api/order/create
+http://localhost:5000/api/order/all
+http://localhost:5000/api/order/get_one #order_id and #user_id pass in it
+http://localhost:5000/api/order/update
+http://localhost:5000/api/order/delete
+
+#
